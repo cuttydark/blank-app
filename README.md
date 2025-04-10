@@ -1,19 +1,29 @@
-# 🎈 Blank app template
+# ⏳ Calculadora de Tiempo Real con Personas Queridas
 
-A simple Streamlit app template for you to modify!
+Una herramienta emocional e interactiva que te ayuda a reflexionar:  
+**¿Cuánto tiempo real te queda para ver a esa persona importante en tu vida?**
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## 💡 ¿Cómo funciona?
 
-### How to run it on your own machine
+Introduce:
+- La edad de ambas personas.
+- Cuántas veces se ven al año.
+- Cuánto tiempo (en horas) dura cada encuentro.
 
-1. Install the requirements
+Y obtendrás:
+- Cuántas veces más podréis veros en la vida.
+- Cuánto tiempo REAL (en días, horas y minutos) pasaréis juntos hasta entonces.
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+---
 
-2. Run the app
+## 🚀 Cómo ejecutarlo
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+### Opción 1: GitHub Codespaces (recomendado)
+
+1. Abre este repositorio en Codespaces.
+2. Abre la terminal integrada.
+3. Asegúrate de estar dentro del entorno virtual (deberías ver algo como `(.venv)`).
+4. Instala Streamlit:
+
+   ```bash
+   pip install streamlit
